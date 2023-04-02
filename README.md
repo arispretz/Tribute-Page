@@ -13,6 +13,7 @@ You should see an a element with a corresponding id="tribute-link", which links 
 Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
 Your img element should be centered within its parent element
 You should have a main element with an id of main.
+
 Waiting:Your #img-div, #image, #img-caption, #tribute-info, and #tribute-link should all be descendants of #main.
 Waiting:You should have an element with an id of title.
 Waiting:Your #title should not be empty.
