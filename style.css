@@ -77,10 +77,16 @@ h1 {
   
   #tribute-link {
     text-align: left;
-  }
-  
+    color: darkblue;
+    }
+ 
+#tribute-link:hover {
+  text-decoration: underline;
+}
+
   #footer {
     text-align: center;
   }
   
 </style>
+
